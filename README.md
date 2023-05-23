@@ -15,7 +15,10 @@ A challenge that came about was the over use of the tokens from the YouTube API 
 
 ## Usage
 
-  
+  1. The user can go to the starter.ipynb to see the functions that were used to make the analysis.
+  2. The functions cover how to connect to the API, how to make API requests, how to get the video ids, details, and comments.
+  3. The data then is pre-processed to check null values and data types.
+  4. The Exploratory Data Analysis then uses various graphs to vizualize the data.
 
 ## Credits
 
